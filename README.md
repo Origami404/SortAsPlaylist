@@ -32,7 +32,7 @@ python -u main.py
 ```
 
 配置项如下
-```json
+```jsonc
 {
     "account": {
         "phone": "手机号",
