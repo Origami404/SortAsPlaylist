@@ -1,5 +1,5 @@
 ## 简介
-这是一个基于[NeteaseCloudAPI]()的小工具, 用来对付没有跟网易云音乐联动的廉价辣鸡mp3
+这是一个基于[NeteaseCloudAPI](https://github.com/Binaryify/NeteaseCloudMusicApi)的小工具, 用来对付没有跟网易云音乐联动的廉价辣鸡mp3
 它可以把你网易云音乐里的歌**按歌单**放到文件夹里, 具体样式如下
 ```
 00 - 歌单
@@ -16,7 +16,7 @@
 - 为了能够方便地在歌单顶部添加/删除歌, 编号会从`(999-歌曲总数)`开始编, 但是这意味着如果你在歌单中间添加/删除了歌或者动了歌单顺序的话, 那就要重新下过所有歌了
 
 ## 使用
-首先要安装[NeteaseCloudAPI]()并使其运行.
+首先要安装[NeteaseCloudAPI](https://github.com/Binaryify/NeteaseCloudMusicApi)并使其运行.
 ```bash
 git clong 
 cd NeteaseCloudMusicApi
